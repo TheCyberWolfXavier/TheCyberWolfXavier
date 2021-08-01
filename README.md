@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheCyberWolfXavier
 - 👀 I’m interested in Hacking and Cyber Sceurity
-- 🌱 I’m currently learning Linux 
+- 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
